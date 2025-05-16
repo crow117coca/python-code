@@ -1,0 +1,8 @@
+a=11
+b=34
+c=18
+choice=input("how old are: a=11, b=34 ,c=18")
+if choice==("a"):
+    print("you cant vote")
+else:
+    print("you can vote")
